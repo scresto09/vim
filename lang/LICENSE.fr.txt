@@ -1,0 +1,97 @@
+LICENCE DE VIM
+
+Note : seul le texte original anglais de cette licence fait foi juridiquement.
+La présente traduction française est fournie à titre informatif.  Lorsqu'il
+est fait référence ci-dessous à "cette licence", il s'agit de la version
+anglaise (N.d.T.).
+
+I)  Il n'existe aucune restriction à la distribution de copies non modifiées
+    de Vim, si ce n'est qu'elles doivent inclure le texte de cette licence.
+    Vous pouvez également distribuer des parties non modifiées de Vim, sans
+    restriction non plus, si ce n'est qu'elles doivent inclure le texte de
+    cette licence.  Vous êtes également autorisé à inclure des exécutables
+    que vous avez produits à partir des sources non modifiées de Vim, ainsi
+    que vos propres exemples d'utilisation et scripts Vim.
+
+II) Il est permis de distribuer une version modifiée (ou étendue) de Vim,
+    y compris des exécutables et/ou du code source, lorsque les quatre
+    conditions suivantes sont remplies :
+    1) Le texte de cette licence doit être inclus sans modification.
+    2) La version modifiée de Vim doit être distribuée de l'une des cinq
+       manières suivantes :
+       a) Si vous apportez vous-même des modifications à Vim, vous devez
+          indiquer clairement dans la distribution comment vous contacter.
+          Lorsque le mainteneur vous demande (de quelque manière que ce
+          soit) une copie de la version modifiée de Vim que vous avez
+          distribuée, vous devez mettre vos modifications, y compris le code
+          source, à la disposition du mainteneur gratuitement.  Le mainteneur
+          se réserve le droit d'inclure vos modifications dans la version
+          officielle de Vim.  La manière dont le mainteneur utilisera vos
+          modifications et la licence sous laquelle elles seront distribuées
+          feront l'objet d'un accord entre les parties.  En l'absence d'accord,
+          la présente licence, ou une version ultérieure de celle-ci,
+          s'appliquera également à vos modifications.
+          Les mainteneurs actuels sont répertoriés ici :
+          https://github.com/orgs/vim/people.
+          Tout changement sera annoncé aux endroits appropriés (très
+          probablement vim.sf.net, www.vim.org et/ou comp.editors).  Lorsqu'il
+          est totalement impossible de contacter le mainteneur, l'obligation de
+          lui envoyer vos modifications prend fin.  Une fois que le
+          mainteneur a confirmé avoir reçu vos modifications, il n'est plus
+          nécessaire de les lui envoyer de nouveau.
+       b) Si vous avez reçu une version modifiée de Vim distribuée conformément
+          au point a), vous êtes autorisé à la redistribuer sans modification,
+          conformément au point I).  Si vous y apportez des modifications
+          supplémentaires, les dispositions du point a) s'appliquent à
+          ces modifications.
+       c) Vous devez fournir l'ensemble des modifications, y compris le code
+          source, avec chaque copie de la version modifiée de Vim que vous
+          distribuez.  Cela peut se faire sous la forme d'un diff contextuel.
+          Vous pouvez choisir la licence à appliquer au nouveau code que vous
+          ajoutez.  Les modifications et leur licence ne doivent pas empêcher
+          d'autres personnes d'apporter leurs propres modifications à la version
+          officielle de Vim.
+       d) Si vous disposez d'une version modifiée de Vim comprenant des
+          modifications telles que mentionnées au point c), vous pouvez la
+          distribuer sans le code source des modifications si les trois
+          conditions suivantes sont remplies :
+          - La licence qui s'applique aux modifications vous autorise à
+            transmettre celles-ci au mainteneur de Vim gratuitement et sans
+            restriction, et autorise le mainteneur de Vim à les intégrer dans
+            la version officielle de Vim gratuitement et sans restriction.
+          - Vous conservez les modifications pendant au moins trois ans
+            après la dernière distribution de la version modifiée de Vim
+            correspondante.  Si, pendant cette période, le mainteneur ou une
+            personne à qui vous avez distribué la version modifiée de Vim
+            vous demande (de quelque manière que ce soit) les modifications,
+            vous devez les mettre à sa disposition.
+          - Vous indiquez clairement dans la distribution comment vous
+            contacter.  Ces coordonnées doivent rester valables pendant au
+            moins trois ans après la dernière distribution de la version
+            modifiée de Vim correspondante, ou aussi longtemps que possible.
+       e) Lorsque la licence publique générale GNU (GPL) s'applique aux
+          modifications, vous pouvez distribuer la version modifiée de Vim
+          sous la GNU GPL version 2 ou toute version ultérieure.
+    3) Un message doit être ajouté, au moins dans la sortie de la commande
+       ":version" et dans l'écran d'accueil, afin que l'utilisateur de la
+       version modifiée de Vim puisse voir qu'elle a été modifiée.  En cas
+       de distribution selon le point 2)e), l'ajout du message n'est requis
+       que dans la mesure où il n'entre pas en conflit avec la licence
+       utilisée pour les modifications.
+    4) Les coordonnées requises aux points 2)a) et 2)d) ne doivent être ni
+       supprimées ni modifiées, si ce n'est par la personne concernée
+       elle-même pour les corriger.
+
+III) Si vous distribuez une version modifiée de Vim, il vous est recommandé
+     d'utiliser la licence de Vim pour vos modifications et de les mettre à la
+     disposition du mainteneur, code source compris.  La méthode privilégiée
+     pour cela est l'e-mail, ou le dépôt des fichiers sur un serveur avec
+     envoi de l'URL par e-mail.  Si les modifications sont peu nombreuses
+     (par exemple un Makefile modifié), l'envoi d'un diff contextuel par e-mail
+     suffit.  L'adresse e-mail à utiliser est <maintainer@vim.org>
+
+IV)  Il est interdit de retirer cette licence de la distribution des sources
+     de Vim, de toute partie de celles-ci ou d'une version modifiée.  Vous
+     pouvez, si vous le souhaitez, appliquer cette licence aux versions
+     antérieures de Vim à la place de la licence qui les accompagnait à
+     l'origine.
